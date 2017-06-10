@@ -1,0 +1,26 @@
+{
+  "name": "mongoshell",
+  "version": "0.0.1",
+  "description": "MongoDB -> MongoJS -> MongoShell",
+  "scripts": {
+    "test": "echo \"created by lidebug\""
+  },
+  "author": {
+    "name": "Li Debug",
+    "email": "returninfinity8@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lidebug/mongoshell.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "mongojs",
+    "mongoshell"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "libraryjs": "2.0.2"
+  }
+}
