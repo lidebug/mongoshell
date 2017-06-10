@@ -1,7 +1,7 @@
 {
   "name": "mongoshell",
-  "version": "0.0.1",
-  "description": "MongoDB -> MongoJS -> MongoShell",
+  "version": "1.0.0",
+  "description": "Set of functions for easy work with mongojs",
   "scripts": {
     "test": "echo \"created by lidebug\""
   },
@@ -21,6 +21,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "libraryjs": "2.0.2"
+    "ajaxmanager": "1.0.1",
+    "libraryjs": "2.0.2",
+    "moment": "2.18.1",
+    "mongojs": "2.4.0"
   }
 }
